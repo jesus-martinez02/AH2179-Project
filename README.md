@@ -1,11 +1,13 @@
 # AH2179-Project
-Final Project for course AH2179 Applied Artificial Intelligence in Transportation at KTH
+Final Traffic Project for course AH2179 Applied Artificial Intelligence in Transportation at KTH
 
 The structure of the code is the following: 
 There are two .py files with the main functionality of processing the datasets and providing the framework to train the model. These are:
 - dataset_processing.py: It has the functionallity to do all the preprocessing and addition of the features to the training or test dataset
-- models.py: Module that has all the defined models
-There are also several notebooks that deal with the different specific parts of the project (data analysis, hyperparameter tunning, model evaluation and model diagnostics). These are
+- models.py: Module that has all the defined models. 
+
+
+There are also several notebooks that deal with the different specific parts of the project (data analysis, hyperparameter tunning, model evaluation and model diagnostics). These are:
 - data_analysis.ipynb
 - hyperparameter_tunning.ipynb
 - model_evaluation.ipynb
